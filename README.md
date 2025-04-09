@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @pheelip1577
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Andrpoid app development
+- 👋 Hi, I’m Philip
+- 👀 I’m Programmer 
+- 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ogbodophilip2@gmail.com
 
