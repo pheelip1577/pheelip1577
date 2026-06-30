@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Philip
-- 👀 I’m Programmer 
-- 🌱 I’m currently learning software development
+- 👀 I’m Programmer and a software developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ogbodophilip2@gmail.com
 
